@@ -86,11 +86,17 @@ Estos ficheros permiten analizar y reproducir los resultados reportados en el tr
 
 ---
 
-## Uso y licencia
+## Uso
 
 Este código se publica con fines académicos y de investigación.  
 Si se utiliza o se extiende este trabajo, debe citarse el TFM correspondiente y la
 línea de investigación del grupo LAIKA.
+
+## Licencia
+
+Este proyecto se publica bajo la licencia  
+**Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 España (CC BY-NC-SA 3.0 ES)**,  
+en coherencia con la licencia del Trabajo Fin de Máster.
 
 ---
 

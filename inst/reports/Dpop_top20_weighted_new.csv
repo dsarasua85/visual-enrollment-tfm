@@ -1,0 +1,21 @@
+﻿code_min;name_es_min;code_max;name_es_max;n;popularity_score
+05.555;Prácticas de Programación;05.556;Administración y Gestión de Organizaciones;965;0.0006885
+05.554;Fundamentos de Programación;05.557;Álgebra;1990;0.000637
+05.554;Fundamentos de Programación;05.558;Análisis Matemático;1107;0.0007825
+05.555;Prácticas de Programación;05.558;Análisis Matemático;1126;0.0005485
+05.556;Administración y Gestión de Organizaciones;05.558;Análisis Matemático;914;0.000539
+05.554;Fundamentos de Programación;05.559;Inglés I;851;0.0007605
+05.554;Fundamentos de Programación;05.565;Ingeniería del Software;3327;0.000602
+05.555;Prácticas de Programación;05.565;Ingeniería del Software;1744;0.0006535
+05.556;Administración y Gestión de Organizaciones;05.565;Ingeniería del Software;928;0.0007855
+05.563;Competencia Comunicativa para Profesionales de las TIC;05.565;Ingeniería del Software;2336;0.000391
+05.558;Análisis Matemático;05.569;Grafos y Complejidad;1000;0.000514
+05.564;Diseño y Programación Orientada a Objetos;05.569;Grafos y Complejidad;946;0.000595
+05.566;Sistemas Operativos;05.569;Grafos y Complejidad;845;0.0007705
+05.554;Fundamentos de Programación;05.570;Lógica;2075;0.0006215
+05.556;Administración y Gestión de Organizaciones;05.570;Lógica;2227;0.000157
+05.567;Uso de Bases de Datos;05.572;Redes y Aplicaciones Internet;1254;0.000552
+05.555;Prácticas de Programación;05.573;Estructura de Computadores;996;0.0007325
+05.557;Álgebra;05.573;Estructura de Computadores;815;0.000567
+05.558;Análisis Matemático;05.573;Estructura de Computadores;1085;0.0006635
+05.572;Redes y Aplicaciones Internet;05.575;Administración de Redes y Sistemas Operativos;1414;0.0005705

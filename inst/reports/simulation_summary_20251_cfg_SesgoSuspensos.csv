@@ -1,0 +1,9 @@
+cfg_id;Dpop_variant;Ddif_variant;data_scope;cfg_setup;semester_abs;rows;students;semesters;n_real;rec_chosen;notrec_chosen;hit_rate
+1;unweighted;any;all;Dpop=unweighted, Ddif=any, scope=all;20251;3241;3241;1;9964;4456;5508;0.447209955841028
+2;unweighted;any;new;Dpop=unweighted, Ddif=any, scope=new;20251;3241;3241;1;9964;4580;5384;0.459654757125652
+3;weighted;any;all;Dpop=weighted, Ddif=any, scope=all;20251;3241;3241;1;9964;4572;5392;0.458851866720193
+4;weighted;any;new;Dpop=weighted, Ddif=any, scope=new;20251;3241;3241;1;9964;4729;5235;0.474608590927338
+5;unweighted;both;all;Dpop=unweighted, Ddif=both, scope=all;20251;3241;3241;1;9964;4628;5336;0.46447209955841
+6;unweighted;both;new;Dpop=unweighted, Ddif=both, scope=new;20251;3241;3241;1;9964;4697;5267;0.4713970293055
+7;weighted;both;all;Dpop=weighted, Ddif=both, scope=all;20251;3241;3241;1;9964;4624;5340;0.464070654355681
+8;weighted;both;new;Dpop=weighted, Ddif=both, scope=new;20251;3241;3241;1;9964;4824;5140;0.484142914492172

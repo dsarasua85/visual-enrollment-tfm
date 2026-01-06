@@ -1,0 +1,31 @@
+############################################
+# RStudio
+############################################
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+############################################
+# OS / editor junk
+############################################
+.DS_Store
+Thumbs.db
+
+############################################
+# Datos privados UOC - No publicar
+############################################
+inst/data_files/*.csv
+
+# Se permite fichero README.md
+!inst/data_files/README.md
+
+############################################
+# Resultado simulaciones a nivel estudiante - No publicar
+############################################
+inst/reports/simulation_results*.csv
+
+############################################
+# Figuras generadas
+############################################
+# inst/figures/

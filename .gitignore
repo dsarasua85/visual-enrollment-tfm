@@ -24,8 +24,3 @@ inst/data_files/*.csv
 # Resultado simulaciones a nivel estudiante - No publicar
 ############################################
 inst/reports/simulation_results*.csv
-
-############################################
-# Figuras generadas
-############################################
-# inst/figures/

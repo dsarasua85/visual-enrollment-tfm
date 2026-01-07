@@ -59,18 +59,22 @@ inst/figures/ Figuras generadas a partir de los análisis
 
 ## Disponibilidad de los datos
 
-Los conjuntos de datos originales son proporcionados por el Servicio de Learning
-Analytics de la UOC y contienen información real de estudiantes.  
-Por razones éticas y legales, estos ficheros no pueden publicarse en este repositorio.
+Este repositorio incluye todos los datos necesarios para reproducir los análisis
+y evaluar el sistema de recomendación desarrollado en el TFM.
 
-Los investigadores autorizados pueden reproducir los experimentos colocando los
-ficheros originales en:
+En particular, en inst/data_files/ se publican las matrices de popularidad (Dpop),
+dificultad (Ddif), solapamiento (Dso), los pares de asignaturas y el fichero
+Dabs_INFORMATICA.csv, que constituyen las entradas del sistema de recomendación.
 
-inst/data_files/
+En inst/reports/ se incluyen los resultados completos de las simulaciones, resúmenes
+y rankings generados por el pipeline.
 
+Si se dispone de los ficheros base utilizados para generar estas matrices, se puede
+reproducir completamente el pipeline ejecutando los scripts del repositorio tras
+copiarlos en: inst/data_files/
 
-Todos los CSV publicados en 'inst/reports/' contienen únicamente datos agregados
-y no personales.
+De este modo, el repositorio proporciona un entorno reproducible y verificable para
+el análisis y la evaluación del sistema.
 
 ---
 

@@ -13,14 +13,28 @@
 Thumbs.db
 
 ############################################
-# Datos privados UOC - No publicar
+# Datos TFM
 ############################################
+
+# Por defecto se ignoran todos los CSV de data_files
 inst/data_files/*.csv
 
-# Se permite fichero README.md
-!inst/data_files/README.md
+# ----------------------------
+# Permitidos (anonimizados y agregados)
+# ----------------------------
+
+# Matrices
+!inst/data_files/Dso*.csv
+!inst/data_files/solap*.csv
+!inst/data_files/Ddif*.csv
+!inst/data_files/Dpop*.csv
+!inst/data_files/Dabs_INFORMATICA.csv
+
+# Fichero intermedio de pares de asignaturas
+!inst/data_files/pairs*.csv
 
 ############################################
-# Resultado simulaciones a nivel estudiante - No publicar
+# Resultados procesos ETL y simulaciones
 ############################################
-inst/reports/simulation_results*.csv
+!inst/reports/
+!inst/reports/**
